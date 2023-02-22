@@ -1,12 +1,11 @@
 import React from 'react';
 import '../App.css';
+import ChildResult from './ChildResult';
 
 function Calculator() {
   return (
     <div className="container flex">
-      <div className="child result flex">
-        <p>0</p>
-      </div>
+      <ChildResult />
       <div className="child flex">
         <button type="button" className="button key">AC</button>
         <button type="button" className="button key">÷/-</button>
