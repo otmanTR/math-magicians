@@ -32,6 +32,7 @@ function Calculator() {
       </div>
       <div className="child flex">
         <button type="button" className="button key zero">0</button>
+        <button type="button" className="button key">.</button>
         <button type="button" className="button operator equal">=</button>
       </div>
     </div>
