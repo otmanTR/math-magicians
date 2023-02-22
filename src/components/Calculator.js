@@ -9,7 +9,7 @@ function Calculator() {
       </div>
       <div className="child flex">
         <button type="button" className="button key">AC</button>
-        <button type="button" className="button key">+/-</button>
+        <button type="button" className="button key">÷/-</button>
         <button type="button" className="button key">%</button>
         <button type="button" className="button operator">+</button>
       </div>
@@ -38,5 +38,6 @@ function Calculator() {
     </div>
   );
 }
+Calculator.props = {}
 
 export default Calculator;
