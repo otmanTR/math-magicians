@@ -20,7 +20,7 @@ function Calculator() {
       </div>
       <div className="child flex">
         <button type="button" className="button key" onClick={calculateResult}>AC</button>
-        <button type="button" className="button key" onClick={calculateResult}>÷/-</button>
+        <button type="button" className="button key" onClick={calculateResult}>+/-</button>
         <button type="button" className="button key" onClick={calculateResult}>%</button>
         <button type="button" className="button operator" onClick={calculateResult}>÷</button>
       </div>
