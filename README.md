@@ -124,7 +124,7 @@ Contributions, issues, and feature requests are welcome!
 
 
 ## ⭐️ Show your support <a name="support"></a>
-Open source web development.
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
