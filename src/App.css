@@ -11,6 +11,24 @@
   width: 300px;
 }
 
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px 30px 10px 30px;
+}
+
+.navContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.navContainer li {
+margin-right: 30px;
+margin-top: 20px;
+}
+
 .result {
   display: flex;
   color: #fff;
@@ -44,4 +62,26 @@
 
 .zero {
   width: 150px;
+}
+
+.calcul {
+  display: flex;
+  flex-direction: row;
+}
+
+.calcul h2 {
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+.quote {
+  margin-left: 50px;
+  margin-top: 100px;
+  font-size: larger;
+  font-style: italic;
+}
+
+.home {
+  margin-left: 30px;
+  margin-top: 100px;
 }
