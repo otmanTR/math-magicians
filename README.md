@@ -25,7 +25,7 @@
 
 
 
-# 📖 JavaScript Capstone Project <a name="about-project"></a>
+# 📖 Math Magicians Project <a name="about-project"></a>
 
 
 **Math Magicians is a SPA which you coul make single calculations and reading a random math related queto *
@@ -105,6 +105,11 @@ in your terminal
 - Twitter: [@hotumanzade](https://twitter.com/hotumanzade)
 - LinkedIn: [Burak Otman](linkedin.com/in/burak-otman-88646443)
 
+👤 **Oscar Deus**
+
+- GitHub: [@Oscah01](https://github.com/Oscah01)
+- Twitter: [@alphonce_isaya](https://twitter.com/alphonce_isaya)
+- LinkedIn: [oscar-deus](linkedin.com/in/oscar-deus-757833210/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
