@@ -1,4 +1,4 @@
-import calculate from './calculate';
+import calculate from '../../logic/calculate';
 
 describe('The function', () => {
   test('resets the input results', () => {
