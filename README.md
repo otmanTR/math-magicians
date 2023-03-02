@@ -114,7 +114,7 @@ in your terminal
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#In the future, I would change the design of page. # 🔭 Future Features <a name="future-features"></a>
+#In the future, We would change desing of the page. # 🔭 Future Features <a name="future-features"></a>
 - [ ] **[Create mobile version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -147,5 +147,5 @@ I would like to thank for Microverse and  provide me learning materials, our pee
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
