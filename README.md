@@ -25,7 +25,7 @@
 
 
 
-# 📖 JavaScript Capstone Project <a name="about-project"></a>
+# 📖 Math Magicians Project <a name="about-project"></a>
 
 
 **Math Magicians is a SPA which you coul make single calculations and reading a random math related queto *
@@ -105,12 +105,21 @@ in your terminal
 - Twitter: [@hotumanzade](https://twitter.com/hotumanzade)
 - LinkedIn: [Burak Otman](linkedin.com/in/burak-otman-88646443)
 
+👤 **Oscar Deus**
+
+- GitHub: [@Oscah01](https://github.com/Oscah01)
+- Twitter: [@alphonce_isaya](https://twitter.com/alphonce_isaya)
+- LinkedIn: [oscar-deus](linkedin.com/in/oscar-deus-757833210/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#In the future, I would change the design of page. # 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-features"></a>
+
+> We would change desing of the page.
+
 - [ ] **[Create mobile version]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,5 +151,5 @@ I would like to thank for Microverse and  provide me learning materials, our pee
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
