@@ -114,8 +114,12 @@ in your terminal
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#In the future, We would change desing of the page. # 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-features"></a>
+
+> We would change desing of the page.
+
 - [ ] **[Create mobile version]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
